@@ -7,5 +7,3 @@ Special thanks to ***friezi*** and ***zath.***
 
 On Map:
 1 boss, 5 items and lasers
-
-!! A stripper is needed !!
